@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/chrisnph/poolspector#readme",
   "dependencies": {
-    "discord.js": "^11.5.1"
+    "discord.js": "^11.5.1",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.3"
