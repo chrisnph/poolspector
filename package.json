@@ -1,0 +1,29 @@
+{
+  "name": "poolspector",
+  "version": "1.0.0",
+  "description": "bitscrape monitoring bot for discord",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "yarn nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisnph/poolspector.git"
+  },
+  "author": "Chris Ng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisnph/poolspector/issues"
+  },
+  "homepage": "https://github.com/chrisnph/poolspector#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
